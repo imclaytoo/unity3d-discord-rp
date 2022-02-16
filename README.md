@@ -1,9 +1,11 @@
 ## **Unity3D - Discord Rich Presence**
-a Discord Rich Presence Framework for your game (Unity3D Game Engine)
+a Discord Rich Presence Plugin for your game (Unity3D Game Engine)
 
 #
 ## **About**
-this Framework is my Open Source Framework using DiscordRichPresenceSDK package
+I'm made this Plugin using **DiscordRichPresenceSDK** package.
+
+This *Plugin Configuration* is on *Inspector*, so you can attach it to any different *GameObject* on any spesific *Scene*
 
 #
 ## **Getting Started**
