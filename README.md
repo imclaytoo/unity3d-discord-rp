@@ -27,7 +27,7 @@ Put the redirect link that we want to use, which is **http://127.0.0.1** then cl
 
 ![](https://cdn.discordapp.com/attachments/784761936230744074/943577855026147488/unknown.png)
 
-Go to your Unity Project, then open  the script located at **Assets/Script/DiscordController.cs**
+Go to your Unity Project, then open  the script located at **Assets/Plugins/DiscordGameSDK/DiscordController.cs**
 ```csharp
 using System.Collections;
 using System.Collections.Generic;
@@ -38,7 +38,7 @@ public class DiscordController : MonoBehaviour
 {
     public Discord.Discord discord;
 
-    public string sClientId, sDetails, sState, sLargeImage, sLargeText, sSmallImage, sSmallText;
+    public string sDetails, sState, sLargeImage, sLargeText, sSmallImage, sSmallText;
 
     void Start()
     {
