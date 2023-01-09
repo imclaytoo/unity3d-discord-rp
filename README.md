@@ -38,7 +38,7 @@ public class DiscordController : MonoBehaviour
 {
     public Discord.Discord discord;
 
-    public string sClientId, sDetails, sState, sLargeImage, sLargeText, sSmallImage, sSmallText;
+    public string sDetails, sState, sLargeImage, sLargeText, sSmallImage, sSmallText;
 
     void Start()
     {
